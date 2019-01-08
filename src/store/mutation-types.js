@@ -1,0 +1,5 @@
+export const RECEIVE_NAV_LIST = 'receive_nav_list'
+export const RECEIVE_MSITE = 'receive_msite'
+export const RECEIVE_CLASSIFY = 'receive_classify'
+export const RECEIVE_SHIWUTAB = 'receive_shiwutab'
+export const RECEIVE_SHIWULIST = 'receive_shiwulist'
